@@ -1,10 +1,10 @@
 const values = [5, 12, 8, 130, 44];
 
-const found = values.find((values) => values > 10);
+const found = values.find((values) => values > 10); // Encontra o primeiro valor maior que 10
 
-console.log(found);
+console.log(found); // Retorna 12, porque é o primeiro valor que atende à condição
 
-// objs
+//Extra com array de objetos
 
 const frutas = [
   { name: 'apples', quantity: 23 },
@@ -14,4 +14,6 @@ const frutas = [
 ];
 
 const result = frutas.find((fruta) => fruta.quantity === 0);
-console.log(result);
+// Encontra a primeira fruta com quantidade igual a 0
+
+console.log(result); // retorna o objeto { name: 'bananas', quantity: 0 }
