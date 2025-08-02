@@ -18,15 +18,12 @@ Muito utilizado em APIs e armazenamento de configurações.
 E não é só utilizado no ambiente JavaScript, tá? Várias outras linguagens já adotaram a comunicação via JSON
 
 Exemplo básico:
+<img align="center" src="imgs/JSON-EXAMPLE.png">
 
-{
-"nome": "Kim Taeyeon",
-"idade": 30,
-"casado": false,
-"filhos": ["Tiffany", "Sunny"],
-"endereco": {
-"rua": "Rua das Flores",
-"numero": 123,
-"cidade": "São Paulo"
-}
-}
+"nome" é uma string.
+"idade" é um número.
+"casado" é um valor booleano.
+"filhos" é um array de strings.
+"endereco" é um objeto aninhado com mais informações.
+
+Refêrencia: https://www.json.org/json-pt.html
