@@ -17,3 +17,8 @@ const frutas = [
 const indexFruta = frutas.findIndex((fruta) => fruta.quantity === 0);
 
 console.log(indexFruta); // Retorna 2, pois a primeira fruta com quantidade 0 está no índice 2 (bananas)
+
+// RETORNO -1 EXEMPLO
+const numeros = [1, 2, 3, 4, 5];
+const indexInexistente = numeros.findIndex((num) => num > 10);
+console.log(indexInexistente); // Retorna -1, pois não há nenhum número maior que 10 no array
