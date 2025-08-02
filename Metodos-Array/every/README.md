@@ -2,4 +2,4 @@ O método every em JavaScript é uma função de array que testa se todos os ele
 
 Exemplos no código
 
-Refêrencia: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/every#sintaxe
+Referência: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/every#sintaxe
