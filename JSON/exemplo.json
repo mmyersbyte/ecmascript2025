@@ -1,0 +1,57 @@
+{
+  "nome": "Lee Young-ae",
+  "nomeCompleto": "Lee Young-ae",
+  "dataNascimento": "1971-01-31",
+  "nacionalidade": "Sul-coreana",
+  "profissao": ["Atriz"],
+  "biografia": {
+    "descricao": "Lee Young-ae é uma renomada atriz sul-coreana, conhecida por sua versatilidade e presença marcante no cinema e televisão. Ela conquistou fama internacional com vários papéis, destacando-se em filmes e dramas históricos."
+  },
+  "filmesNotaveis": [
+    {
+      "titulo": "Lady Vengeance",
+      "tituloOriginal": "친절한 금자씨",
+      "tituloIngles": "Sympathy for Lady Vengeance",
+      "anoLancamento": 2005,
+      "diretor": "Park Chan-wook",
+      "genero": ["Thriller", "Drama", "Crime"],
+      "papel": "Lee Geum-ja",
+      "sinopse": "Após cumprir uma pena de 13 anos na prisão por um crime que não cometeu, Lee Geum-ja planeja se vingar do verdadeiro culpado e reconquistar a filha que foi tirada dela.",
+      "recepcao": {
+        "critica": "Altamente elogiado pela crítica por sua narrativa estilizada e atuação poderosa de Lee Young-ae.",
+        "premios": ["Prêmio de Melhor Atriz no Blue Dragon Film Awards (2005)"]
+      }
+    }
+  ],
+  "premios": [
+    {
+      "ano": 2005,
+      "premio": "Blue Dragon Film Awards",
+      "categoria": "Melhor Atriz",
+      "trabalho": "Lady Vengeance",
+      "resultado": "Venceu"
+    },
+    {
+      "ano": 2003,
+      "premio": "Baeksang Arts Awards",
+      "categoria": "Melhor Atriz em Drama",
+      "trabalho": "Dae Jang Geum (Jewel in the Palace)",
+      "resultado": "Venceu"
+    }
+  ],
+  "redesSociais": {
+    "instagram": null,
+    "twitter": null
+  },
+  "curiosidades": [
+    "Lee Young-ae é mais conhecida internacionalmente pelo drama histórico 'Dae Jang Geum', além de seus filmes.",
+    "Ela é casada e tem dois filhos.",
+    "Lee fez uma pausa na carreira para se dedicar à família, mas continua ativa no cinema e televisão.",
+    "O filme 'Lady Vengeance' é parte da trilogia da vingança dirigida por Park Chan-wook."
+  ],
+  "dadosBiograficos": {
+    "altura": "168 cm",
+    "peso": "52 kg",
+    "agencia": "MAYS Entertainment"
+  }
+}
